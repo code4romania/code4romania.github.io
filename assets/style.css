@@ -230,7 +230,7 @@ li.repo h3 {
   border-right-color: #34495E;
 }
 
-.repo.c%23:after {
+.repo.csharp:after {
   border-right-color: #4B0082;
 }
 
