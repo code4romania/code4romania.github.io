@@ -187,7 +187,7 @@ li.repo h3 {
 }
 
 .repo.javascript:after {
-  border-right-color: #333;
+  border-right-color: #f7df1e;
 }
 
 .repo.scala:after {
