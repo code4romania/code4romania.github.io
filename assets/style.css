@@ -230,9 +230,13 @@ li.repo h3 {
   border-right-color: #34495E;
 }
 
+.repo[class*="c#"]:after { border-right-color: #4B0082; }
+
+/*
 .repo.csharp:after {
   border-right-color: #4B0082;
 }
+*/
 
 .repo.elm:after {
   border-right-color: #60b5cc;
