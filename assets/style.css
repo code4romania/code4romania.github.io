@@ -219,7 +219,7 @@ li.repo h3 {
 }
 
 .repo.html:after {
-  border-right-color: #E44D26;
+  border-right-color: #000000;
 }
 
 .repo.kotlin:after {
