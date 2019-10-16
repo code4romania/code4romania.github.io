@@ -70,6 +70,8 @@ a:hover {
   height: 64px;
   margin: 15px 0 0 15px;
   background: url("logo-full.svg");
+  background-size: contain;
+  background-repeat: no-repeat;
   text-indent: -99999px;
 }
 
